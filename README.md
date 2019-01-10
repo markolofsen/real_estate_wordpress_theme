@@ -9,10 +9,12 @@ Attention to Airbnb homeowners! Save time and money with new Airbnb Assistant. G
 
 Best wordpress theme for real estate agency. Direct booking, calendar synchronization, multilingual.
 
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
+
 <hr />
 
-## Exact copy of Airbnb! Setup in 5 minutes!
-## <a href="https://demo.estate.im">Demo website</a>
+### Exact copy of Airbnb! Setup in 5 minutes!
+### <a href="https://demo.estate.im">Demo website</a>
 
 ### AIrbnb features
 * Import apartments from Airbnb (<a href="https://estate.im/">Demo import</a>)
@@ -32,10 +34,13 @@ Best wordpress theme for real estate agency. Direct booking, calendar synchroniz
 * Google Analytics, Yandex Metrika.
 * 24/7 support.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = real_estate_wordpress_theme <br />
 Title = Real estate wordpress theme <br />
 Keywords = airbnb clone script estate wordpress site theme rental software python django, wordpress themeforest <br />

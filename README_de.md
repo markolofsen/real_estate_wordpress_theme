@@ -9,10 +9,12 @@ Aufmerksamkeit für Hausbesitzer von Airbnb! Sparen Sie Zeit und Geld mit dem ne
 
 Best wordpress theme for real estate agency. Direct booking, calendar synchronization, multilingual.
 
+<a href="https://estate.im/">## Estate.im</a> - Hausbesitzerin bei airbnb!
+
 <hr />
 
-## Genaue Kopie von Airbnb! Setup in 5 Minuten!
-## <a href="https://demo.estate.im">Demo-Website</a>
+### Genaue Kopie von Airbnb! Setup in 5 Minuten!
+### <a href="https://demo.estate.im">Demo-Website</a>
 
 ### AIrbnb-Funktionen
 * Import von Wohnungen von Airbnb ( <a href="https://estate.im/">Demo-Import</a> )
@@ -32,10 +34,13 @@ Best wordpress theme for real estate agency. Direct booking, calendar synchroniz
 * Google Analytics, Yandex Metrika.
 * Unterstützung rund um die Uhr.
 
+<hr />
+
+<a href="https://estate.im/">## Estate.im</a> - Hausbesitzerin bei airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Bibliotheksname = real_estate_wordpress_theme <br />
 Titel = Real estate wordpress theme <br />
 Schlüsselwörter = airbnb clone script estate wordpress site theme rental software python django, wordpress themeforest <br />
